@@ -28,6 +28,6 @@ Launch Jupyter :
 jupyter lab
 ```
 
-Jupyter should open a new tab with url http://localhost:8888/ and display the tutorial files.
+Jupyter should open a new tab with url http://localhost:8888/.
 
 
